@@ -7,7 +7,11 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-	
+
+	.bild{
+  height:100px;
+  width: 100px;
+}	
 	
 <!-- One -->
 <section id="one">
@@ -24,7 +28,7 @@ nav-menu: true
 <div style="display:inline-block;" >
 <!-- Content -->
 <center>
-	<img class="percent-30 float-left" border="0" src="{% link assets/images/fancyCropped.jpg %}" align="left"> Hey there, I'm Marianna! Currently, I'm a first-year Computer Science major at the University of Calgary with a deep interest in involving myself in the field. My goal is to be more than just a coder; someone who can be relied on in a team to contribute meaningful solutions to daunting problems. I’m a methodical maniac by nature, and I believe one must constantly keep learning in order to be able to solve complications effectively. Recently, my curiosity has been piqued by the field of Information Security. The last 2 years I've spent as a member of the InfoSec Club at the University of Calgary has been monumental in my search for knowledge within the fields I am interested in, and I hope I can continue to grow and satiate my desire to learn.
+	<img class="bild" border="0" src="{% link assets/images/fancyCropped.jpg %}" align="left"> Hey there, I'm Marianna! Currently, I'm a first-year Computer Science major at the University of Calgary with a deep interest in involving myself in the field. My goal is to be more than just a coder; someone who can be relied on in a team to contribute meaningful solutions to daunting problems. I’m a methodical maniac by nature, and I believe one must constantly keep learning in order to be able to solve complications effectively. Recently, my curiosity has been piqued by the field of Information Security. The last 2 years I've spent as a member of the InfoSec Club at the University of Calgary has been monumental in my search for knowledge within the fields I am interested in, and I hope I can continue to grow and satiate my desire to learn.
 	</center>
 
 	
