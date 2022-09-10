@@ -29,7 +29,6 @@ nav-menu: true
 
 	<!-- Two -->
 <section id="two" class="spotlights">
-	<section>
 
 		<div class="content">
 			<div class="inner">
