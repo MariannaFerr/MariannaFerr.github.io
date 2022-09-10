@@ -41,7 +41,7 @@ nav-menu: true
 
 			</div>
 			<a class="image">
-			<img src="{% link assets/images/cookies.jpg %}" align="center" width="200" height="100">
+			<img src="{% link assets/images/cookies.jpg %}" align="justify" width="260" height="150">
 		</a>
 		</div>
 		
