@@ -30,7 +30,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/cookies.jpg %}" align="center">
+			<img src="{% link assets/images/cookies.jpg %}" align="justify">
 		</a>
 
 
