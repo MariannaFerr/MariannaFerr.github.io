@@ -38,7 +38,7 @@ nav-menu: true
 	</section>
 	<section>
 			<a class="image">
-			<img src="{% link assets/images/wrenPaint.jpg %}" align="center">
+			<img src="{% link assets/images/wrentPaint.jpg %}" align="center">
 		</a>
 		<div class="content">
 			<div class="inner">
