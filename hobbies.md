@@ -8,7 +8,7 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main">
-
+<!--
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -18,7 +18,8 @@ nav-menu: true
 		<p>Be patient-- as if you're waiting to take a batch of cookies out of the oven. Good things are always worth the wait :)</p>
 	</div>
 </section>
-
+-->
+	
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
