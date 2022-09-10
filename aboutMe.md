@@ -29,7 +29,7 @@ nav-menu: true
 
 	<!-- Two -->
 <section id="two" class="spotlights">
-
+	<section>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -41,6 +41,7 @@ nav-menu: true
 			<a class="image">
 			<img src="{% link assets/images/cookies.jpg %}" align="justify" width="270" height="190">
 		</a>
+		</div>
 		</div>
 		
 	</section>
