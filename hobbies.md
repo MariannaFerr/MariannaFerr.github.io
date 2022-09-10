@@ -2,7 +2,7 @@
 title: Hobbies
 layout: post
 description: 'Some things I enjoy :)'
-image: assets/images/wrentPaint.jpg
+image: assets/images/wrenPaint.jpg
 nav-menu: true
 ---
 
