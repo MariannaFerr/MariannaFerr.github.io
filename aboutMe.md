@@ -38,7 +38,7 @@ nav-menu: true
 				</header>
 				<p >Be patient-- as if you're waiting to take a batch of cookies out of the oven. Good things are always worth the wait :)</p>
 
-			</div>
+			
 			<a class="image">
 			<img src="{% link assets/images/cookies.jpg %}" align="justify" width="270" height="190">
 		</a>
