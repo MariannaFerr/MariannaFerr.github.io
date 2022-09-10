@@ -39,7 +39,7 @@ nav-menu: true
 				<p>Be patient-- as if you're waiting to take a batch of cookies out of the oven. Good things are always worth the wait :)</p>
 			</div>
 			<a class="image">
-			<img src="{% link assets/images/cookies.jpg %}" align="center" width="400" height="300">
+			<img src="{% link assets/images/cookies.jpg %}" align="center" width="380" height="250">
 		</a>
 		</div>
 		
