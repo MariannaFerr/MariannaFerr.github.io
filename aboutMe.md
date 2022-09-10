@@ -6,7 +6,10 @@ nav-menu: true
 ---
 
 .padding{
-padding-right: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 40px;
 }
 
 <!-- Main -->
