@@ -6,7 +6,7 @@ image: assets/images/cuteMagpie2.jpg
 nav-menu: true
 ---
 <h2><u> with the University of Calgary's Information Security Club</u></h2>
-Vice President of Communications: April 2022-Current <br> 
+<strong> Vice President of Communications: April 2022-Current </strong><br> 
 <ul>
   <li>I Run all the social media pages for the club and create promotional material for club events. </li>
 <li> Built a Computer Networking Workshop, which I am due to present October 17th, 2022. I will be teaching network fundamentals and giving club members the chance to search for flags in various network challenges that I've assembled. </li> 
@@ -16,7 +16,7 @@ Vice President of Communications: April 2022-Current <br>
 
 <img src="{% link assets/images/magpieBlack.jpg %}" alt="" data-position="center center" />
 
-Junior Executive: September 2021-April 2022 <br> 
+<strong> Junior Executive: September 2021-April 2022 </strong> <br> 
 <ul>
   <li> Attended weekly workshops that teach various skills in cybersecurity. </li>
 <li> Lead and moderated the club’s second Speaker Series, Where myself and a club Executive interviewed Ruth Prominslow live on YouTube on Cyberlaw for the club members to watch. </li> 
