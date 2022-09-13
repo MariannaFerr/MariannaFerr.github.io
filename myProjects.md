@@ -5,10 +5,10 @@ description: With the Ucalgary Infosec Club
 image: assets/images/cuteMagpie2.jpg
 nav-menu: true
 ---
-<h2><u>University of Calgary's Information Security Club</u></h2>
+<h2>University of Calgary's Information Security Club</h2>
 <strong> Vice President of Communications: April 2022-Current </strong><br> 
 <ul>
-  <li>I Run all the social media pages for the club and create promotional material for club events. </li>
+  <li>I run all the social media pages for the club and create promotional material for club events. </li>
 <li> Built a Computer Networking Workshop, which I am due to present October 17th, 2022. I will be teaching network fundamentals and giving club members the chance to search for flags in various network challenges that I've assembled. </li> 
 </ul>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Our Annual Magpie CTF</b> <br> 
