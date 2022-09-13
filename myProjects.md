@@ -5,7 +5,7 @@ description: With the Ucalgary Infosec Club
 image: assets/images/cuteMagpie2.jpg
 nav-menu: true
 ---
-<h2><u> with the University of Calgary's Information Security Club</u></h2>
+<h2><u>University of Calgary's Information Security Club</u></h2>
 <strong> Vice President of Communications: April 2022-Current </strong><br> 
 <ul>
   <li>I Run all the social media pages for the club and create promotional material for club events. </li>
