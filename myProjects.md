@@ -12,7 +12,7 @@ Vice President of Communications: April 2022-Current <br>
 <li> Lead and moderated the club’s second Speaker Series, Where myself and a club Executive interviewed Ruth Prominslow live on YouTube on Cyberlaw for the club members to watch. </li> 
 <li> Built a Computer Networking Workshop, which I am due to present October 17th, 2022. I will be teaching network fundamentals and giving club members the chance to search for flags in various network challenges that I've assembled. </li> 
 </ul>
-extra &nbsp;&nbsp; space
+extra &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; space
 
 <img src="{% link assets/images/magpieBlack.jpg %}" alt="" data-position="center center" />
 
