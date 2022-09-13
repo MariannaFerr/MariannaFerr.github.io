@@ -22,4 +22,3 @@ nav-menu: true
 <li> Lead and moderated the club’s second Speaker Series, Where myself and a club Executive interviewed Ruth Prominslow live on YouTube on Cyberlaw for the club members to watch. </li> 
 <li> Contributed to weekly club events behind-the-scenes where I assist the club executives wherever possible. </li> 
 </ul>
-CTF!!
