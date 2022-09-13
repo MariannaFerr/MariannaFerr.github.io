@@ -10,7 +10,7 @@ nav-menu: true
 
 <img src="{% link assets/images/magpieBlack.jpg %}" alt="" data-position="center center" />
 
-<b>Junior Executive: September 2021-May 2022 <\b><br> Attended weekly workshops that teach various skills in cybersecurity.
+<b>Junior Executive: September 2021-May 2022 <\b><br> <br> Attended weekly workshops that teach various skills in cybersecurity.
 Lead and moderated the club’s second Speaker Series, Where myself and a club Executive interviewed Ruth Prominslow live on YouTube on Cyberlaw for the club members to watch. 
 Contributes to weekly club events behind-the-scenes where I assist the club executives wherever possible.
 
