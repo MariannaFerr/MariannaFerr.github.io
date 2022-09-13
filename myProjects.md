@@ -6,12 +6,19 @@ image: assets/images/cuteMagpie2.jpg
 nav-menu: true
 ---
 <h2><u> with the University of Calgary's Information Security Club</u></h2>
-Vice President of Communications: May 2022-Current <br> consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristiue libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Vice President of Communications: April 2022-Current <br> <br> 
+<ul>
+  <li>Run all the social media pages for the club and create promotional material for club events. </li>
+<li> Lead and moderated the club’s second Speaker Series, Where myself and a club Executive interviewed Ruth Prominslow live on YouTube on Cyberlaw for the club members to watch. </li> 
+<li> Built a Computer Networking Workshop, which I am due to present October 17th, 2022. I will be teaching network fundamentals and giving club members the chance to search for flags in various network challenges that I've built. </li> 
+</ul>
 
 <img src="{% link assets/images/magpieBlack.jpg %}" alt="" data-position="center center" />
 
-Junior Executive: September 2021-May 2022 <br> <br> Attended weekly workshops that teach various skills in cybersecurity.
-Lead and moderated the club’s second Speaker Series, Where myself and a club Executive interviewed Ruth Prominslow live on YouTube on Cyberlaw for the club members to watch. 
-Contributes to weekly club events behind-the-scenes where I assist the club executives wherever possible.
-
+Junior Executive: September 2021-April 2022 <br> <br> 
+<ul>
+  <li> Attended weekly workshops that teach various skills in cybersecurity. </li>
+<li> Lead and moderated the club’s second Speaker Series, Where myself and a club Executive interviewed Ruth Prominslow live on YouTube on Cyberlaw for the club members to watch. </li> 
+<li> Contributed to weekly club events behind-the-scenes where I assist the club executives wherever possible. </li> 
+</ul>
 CTF!!
