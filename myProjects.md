@@ -5,11 +5,13 @@ description: With the Ucalgary Infosec Club
 image: assets/images/cuteMagpie2.jpg
 nav-menu: true
 ---
-
-Jr exec- Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<h2><u>Information Security Club- University of Calgary<u></h2>
+<b>Vice President of Communications: May 2022-Current <\b><br> consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristiue libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
 
 <img src="{% link assets/images/magpieBlack.jpg %}" alt="" data-position="center center" />
 
-VP coms- consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<b>Junior Executive: September 2021-May 2022 <\b><br> Attended weekly workshops that teach various skills in cybersecurity.
+Lead and moderated the club’s second Speaker Series, Where myself and a club Executive interviewed Ruth Prominslow live on YouTube on Cyberlaw for the club members to watch. 
+Contributes to weekly club events behind-the-scenes where I assist the club executives wherever possible.
 
 CTF!!
