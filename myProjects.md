@@ -12,8 +12,7 @@ nav-menu: true
 <li> Built a Computer Networking Workshop, which I am due to present October 17th, 2022. I will be teaching network fundamentals and giving club members the chance to search for flags in various network challenges that I've assembled. </li> 
 </ul>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Our Annual Magpie CTF</b> <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>C</b>apture <b>T</b>he <b>F</b>lag is a jeopardy-style, team-based, online event where teams work together to solve challenges and earn points. Ours typically takes place over two days with thousands of dollars in cash prizes! I've written &nbsp;&nbsp;&nbsp;
-network challenges for our upcoming 2022 CTF that utilize Wireshark, a tool for network traffic analyzing.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>C</b>apture <b>T</b>he <b>F</b>lag is a jeopardy-style, team-based, online event where teams work together to solve challenges and earn points. Ours typically takes place over two days with thousands of dollars in cash prizes! I've written network challenges for our upcoming 2022 CTF that utilize Wireshark, a tool for network traffic analyzing.   
 
 <img src="{% link assets/images/magpieBlack.jpg %}" alt="" data-position="center center" />
 
