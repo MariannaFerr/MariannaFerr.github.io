@@ -6,17 +6,17 @@ image: assets/images/cuteMagpie2.jpg
 nav-menu: true
 ---
 <h2>University of Calgary's Information Security Club</h2>
-<strong> Vice President of Communications: April 2022-Current </strong><br> 
+<strong> Vice President of Communications: April 2022- June 2024 (26 months)</strong><br> 
 <ul>
-  <li>I run all the social media pages for the club and create promotional material for club events. </li>
-<li> Built a Computer Networking Workshop, which I am due to present October 17th, 2022. I will be teaching network fundamentals and giving club members the chance to search for flags in various network challenges that I've assembled. </li> 
+  <li> I ran all club social media pages and created promotional material for club events, including Instagram, Twitter, Facebook, and Linkedin. </li>
+<li> Built a Computer Networking Workshop, diving into network fundamentals and giving club members the chance to search for flags in various network challenges that I've assembled. </li> 
 </ul>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Our Annual Magpie CTF</b> <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>C</b>apture <b>T</b>he <b>F</b>lag is a jeopardy-style, team-based, online event where teams work together to solve cybersecurity-related challenges and earn points. Ours typically takes place over two days with thousands of dollars in cash prizes! I've written network challenges for our upcoming 2022 CTF that utilize Wireshark, a tool for network traffic analyzing.   
 
 <img src="{% link assets/images/magpieBlack.jpg %}" alt="" data-position="center center" />
 
-<strong> Junior Executive: September 2021-April 2022 </strong> <br> 
+<strong> Junior Executive: September 2021-April 2022  (8 months)</strong> <br> 
 <ul>
   <li> Attended weekly workshops that teach various skills in cybersecurity. </li>
 <li> Lead and moderated the club’s second Speaker Series, Where myself and a club Executive interviewed Ruth Prominslow live on YouTube on Cyberlaw for the club members to watch. </li> 
